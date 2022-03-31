@@ -29,4 +29,6 @@ The most basic setup is to have both producer (web/REST service), and consumer (
 Celery Architecture
 -------------------
 
+![2022-03-31_10-52](https://user-images.githubusercontent.com/42309948/160982468-01b4af79-1a11-407c-9ef2-9f897f07d82e.png)
+
 
